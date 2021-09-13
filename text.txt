@@ -1,0 +1,4 @@
+This the (r+) mode for writing/reading both
+the next line
+This the (r+) mode for writing/reading
+the next line

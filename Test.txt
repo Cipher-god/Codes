@@ -1,0 +1,7 @@
+- - - - - -  - - - - - - - Billing Recipit - - - - - - - - - - - - - - - - - -
+Name    : <<name>>
+Address : <<address>>
+Product : <<product>>
+Warenty : <<years>>
+
+- - - - - - - - - - - - - -Thanks for Visiting us- - - - - - - - - - - - - - -
