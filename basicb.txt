@@ -1,0 +1,1 @@
+Reading this content from the basicb.txt file
