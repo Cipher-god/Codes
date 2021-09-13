@@ -1,0 +1,7 @@
+- - - - - -  - - - - - - - Billing Recipit - - - - - - - - - - - - - - - - - -
+Name    : John_prc
+Address : L.A.55th_street
+Product : Air_Conditioner
+Warenty : 4_years
+
+- - - - - - - - - - - - - -Thanks for Visiting us- - - - - - - - - - - - - - -

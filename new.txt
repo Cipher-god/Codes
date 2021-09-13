@@ -1,0 +1,5 @@
+-----Billing Recipit-----
+{{Name}}
+{{Item}}
+{{Date}}
+//-- Thanks for Visiting Us. {{Name}} Come Back Soon --\\
